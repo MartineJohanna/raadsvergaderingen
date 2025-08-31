@@ -32,7 +32,7 @@ DATA_DIR.mkdir(parents=True, exist_ok=True)
 # ========== HTTP session met retries ==========
 session = requests.Session()
 session.headers.update({
-    "User-Agent": "DenHaag-RIS-scraper/1.0 (research; contact: you@example.com)"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 })
 retry = Retry(total=5, backoff_factor=0.5, status_forcelist=[429, 500, 502, 503, 504])
 session.mount("https://", HTTPAdapter(max_retries=retry))
