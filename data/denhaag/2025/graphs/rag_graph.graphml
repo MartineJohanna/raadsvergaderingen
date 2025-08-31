@@ -1,0 +1,3244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="kind" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Ralf Sluijs">
+  <data key="d0">person</data>
+</node>
+<node id="aanpassen locatiebeleid voor maatwerk">
+  <data key="d0">topic</data>
+</node>
+<node id="verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag (ris320934)">
+  <data key="d0">topic</data>
+</node>
+<node id="Ralf Sluijs Hart">
+  <data key="d0">person</data>
+</node>
+<node id="evenementaanbod">
+  <data key="d0">topic</data>
+</node>
+<node id="innovatie">
+  <data key="d0">topic</data>
+</node>
+<node id="alternatieve locaties">
+  <data key="d0">topic</data>
+</node>
+<node id="voorstel van het college inzake verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="schrap verplichte rustperiodes evenementen">
+  <data key="d0">topic</data>
+</node>
+<node id="den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="evenementenstad">
+  <data key="d0">topic</data>
+</node>
+<node id="verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="clustering van evenementen">
+  <data key="d0">topic</data>
+</node>
+<node id="producties en faciliteiten">
+  <data key="d0">topic</data>
+</node>
+<node id="Arjen Dubbelaar">
+  <data key="d0">person</data>
+</node>
+<node id="Rutger de Ridder">
+  <data key="d0">person</data>
+</node>
+<node id="Joren Noorlander">
+  <data key="d0">person</data>
+</node>
+<node id="Hinke de Groot">
+  <data key="d0">person</data>
+</node>
+<node id="en en 14 middeldure huurwoningen">
+  <data key="d0">topic</data>
+</node>
+<node id="uitbreidingsarchitectuur">
+  <data key="d0">topic</data>
+</node>
+<node id="beeldkwaliteitsplan">
+  <data key="d0">topic</data>
+</node>
+<node id="badhuisweg 4">
+  <data key="d0">topic</data>
+</node>
+<node id="badplaatsarchitectuur">
+  <data key="d0">topic</data>
+</node>
+<node id="L.A VVD">
+  <data key="d0">person</data>
+</node>
+<node id="badhuisarchitectuur">
+  <data key="d0">topic</data>
+</node>
+<node id="neorenaissance">
+  <data key="d0">topic</data>
+</node>
+<node id="neoclassicisme">
+  <data key="d0">topic</data>
+</node>
+<node id="art nouveau">
+  <data key="d0">topic</data>
+</node>
+<node id="gewijzigd voorstel van het college inzake concept planuitwerkingskader badhuisweg 4">
+  <data key="d0">topic</data>
+</node>
+<node id="Dennis Groenewold">
+  <data key="d0">person</data>
+</node>
+<node id="gebouwontwerp">
+  <data key="d0">topic</data>
+</node>
+<node id="stijl">
+  <data key="d0">topic</data>
+</node>
+<node id="Lesley Arp">
+  <data key="d0">person</data>
+</node>
+<node id="Nick Kaptheijns">
+  <data key="d0">person</data>
+</node>
+<node id="herziening grondexploitatie trekvlietzone (ris320794)">
+  <data key="d0">topic</data>
+</node>
+<node id="hart voor den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="sp">
+  <data key="d0">topic</data>
+</node>
+<node id="pvv">
+  <data key="d0">topic</data>
+</node>
+<node id="haagse vvd">
+  <data key="d0">topic</data>
+</node>
+<node id="nota grondbeleid 2024">
+  <data key="d0">topic</data>
+</node>
+<node id="duurzaamheidsmaatregelen">
+  <data key="d0">topic</data>
+</node>
+<node id="co2-reductie">
+  <data key="d0">topic</data>
+</node>
+<node id="openbare selectieprocedures">
+  <data key="d0">topic</data>
+</node>
+<node id="toekomstbestendig bouwen">
+  <data key="d0">topic</data>
+</node>
+<node id="het college">
+  <data key="d0">person</data>
+</node>
+<node id="co2-reductie tijdens gebruiks- en realisatiefase">
+  <data key="d0">topic</data>
+</node>
+<node id="natuurinclusief bouwen">
+  <data key="d0">topic</data>
+</node>
+<node id="klimaatadaptief bouwen">
+  <data key="d0">topic</data>
+</node>
+<node id="energiebesparing">
+  <data key="d0">topic</data>
+</node>
+<node id="voorstel college">
+  <data key="d0">topic</data>
+</node>
+<node id="ris-nummer: ris319970">
+  <data key="d0">topic</data>
+</node>
+<node id="Biedsontwikkelingen">
+  <data key="d0">person</data>
+</node>
+<node id="kwaliteit toevoegen">
+  <data key="d0">topic</data>
+</node>
+<node id="rechtvaardig en inclusief den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="betaalbare, toegankelijke en toekomstbestendige woningvoorraad">
+  <data key="d0">topic</data>
+</node>
+<node id="klimaatbestendig, klimaatneutraal en natuurinclusief den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="economisch vitaal den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="gezond en veilig den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="duurzaam bereikbaar den haag">
+  <data key="d0">topic</data>
+</node>
+<node id="grondbeleid">
+  <data key="d0">topic</data>
+</node>
+<node id="notitie omgevingsvisie">
+  <data key="d0">topic</data>
+</node>
+<node id="Ahraui">
+  <data key="d0">person</data>
+</node>
+<node id="Arp">
+  <data key="d0">person</data>
+</node>
+<node id="Assad">
+  <data key="d0">person</data>
+</node>
+<node id="Baboeram">
+  <data key="d0">person</data>
+</node>
+<node id="Van Basten Batenburg">
+  <data key="d0">person</data>
+</node>
+<node id="Bingöl">
+  <data key="d0">person</data>
+</node>
+<node id="Bom">
+  <data key="d0">person</data>
+</node>
+<node id="Bos">
+  <data key="d0">person</data>
+</node>
+<node id="Van den Bos">
+  <data key="d0">person</data>
+</node>
+<node id="Butt">
+  <data key="d0">person</data>
+</node>
+<node id="Celik">
+  <data key="d0">person</data>
+</node>
+<node id="De Vuyst">
+  <data key="d0">person</data>
+</node>
+<node id="Van Doorn">
+  <data key="d0">person</data>
+</node>
+<node id="Dubbelaar">
+  <data key="d0">person</data>
+</node>
+<node id="Dumoulin">
+  <data key="d0">person</data>
+</node>
+<node id="Van Esch">
+  <data key="d0">person</data>
+</node>
+<node id="Etalle">
+  <data key="d0">person</data>
+</node>
+<node id="Faïd">
+  <data key="d0">person</data>
+</node>
+<node id="Gerritsen">
+  <data key="d0">person</data>
+</node>
+<node id="Van den Goorbergh">
+  <data key="d0">person</data>
+</node>
+<node id="Groenewold">
+  <data key="d0">person</data>
+</node>
+<node id="De Groot">
+  <data key="d0">person</data>
+</node>
+<node id="Guernaoui">
+  <data key="d0">person</data>
+</node>
+<node id="Hofstra">
+  <data key="d0">person</data>
+</node>
+<node id="Holman">
+  <data key="d0">person</data>
+</node>
+<node id="Kaptheijns">
+  <data key="d0">person</data>
+</node>
+<node id="Klokkenburg-Reedeker">
+  <data key="d0">person</data>
+</node>
+<node id="Mahmood">
+  <data key="d0">person</data>
+</node>
+<node id="Martinez van Andel">
+  <data key="d0">person</data>
+</node>
+<node id="Martini">
+  <data key="d0">person</data>
+</node>
+<node id="Meinesz">
+  <data key="d0">person</data>
+</node>
+<node id="Mekers">
+  <data key="d0">person</data>
+</node>
+<node id="De Mos">
+  <data key="d0">person</data>
+</node>
+<node id="Mostert">
+  <data key="d0">person</data>
+</node>
+<node id="Noorlander">
+  <data key="d0">person</data>
+</node>
+<node id="Partiman">
+  <data key="d0">person</data>
+</node>
+<node id="Peeck">
+  <data key="d0">person</data>
+</node>
+<node id="A">
+  <data key="d0">person</data>
+</node>
+<node id="J">
+  <data key="d0">person</data>
+</node>
+<node id="aanpassing maximale hoogte reserve activafinanciering">
+  <data key="d0">topic</data>
+</node>
+<node id="datumbepaling initiatiefvoorstel (hart voor den haag)">
+  <data key="d0">topic</data>
+</node>
+<node id="actieve en gezonde jongeren, elke meter telt!">
+  <data key="d0">topic</data>
+</node>
+<node id="gestaakte stemmen raadsvergadering 19 december 2024">
+  <data key="d0">topic</data>
+</node>
+<node id="motie j.3 (hvdh) watertappunt in drukstbezochte speeltuinen">
+  <data key="d0">topic</data>
+</node>
+<node id="motie j.4 (d66) geef ruimte aan meiden om te spelen">
+  <data key="d0">topic</data>
+</node>
+<node id="voorstel van het college inzake voorontwerp herinrichting pletterijkade incl. 2 richtingsfietsoversteek">
+  <data key="d0">topic</data>
+</node>
+<node id="motie h.1 sp bewaar een plekje voor een haags icoon">
+  <data key="d0">topic</data>
+</node>
+<node id="motie h.2 sp maak de kade veilig">
+  <data key="d0">topic</data>
+</node>
+<node id="motie h.3 pvv gemotoriseerd verkeer linksaf de pletterijkade op">
+  <data key="d0">topic</data>
+</node>
+<node id="motie h.4 hvdh behoud een plekje voor een haags icoon">
+  <data key="d0">topic</data>
+</node>
+<node id="HvDH">
+  <data key="d0">person</data>
+</node>
+<node id="verordening nadeelcompensatie den haag 2024">
+  <data key="d0">topic</data>
+</node>
+<node id="motie i.1 hvdh gelijke behandeling ondernemers zeeheldenkwartier">
+  <data key="d0">topic</data>
+</node>
+<node id="motie i.2 hvdh na-ijl periode zeeheldenkwartier in relatie tot nieuwe werkzaamheden">
+  <data key="d0">topic</data>
+</node>
+<node id="motie i.3 hvdh onderzoek voorzienbaarheid hinder kijkduin">
+  <data key="d0">topic</data>
+</node>
+<node id="k l ris321139 voorstel van het college inzake verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag (ris320934)">
+  <data key="d0">topic</data>
+</node>
+<node id="ingetrokken amendement j.a hvdh aanpassen locatiebeleid voor maatwerk">
+  <data key="d0">topic</data>
+</node>
+<node id="ingetrokken amendement j.b hvdh schrap verplichte rustperiodes evenementen">
+  <data key="d0">topic</data>
+</node>
+<node id="ingetrokken amendement j.c hvdh stimuleer clustering van evenementen">
+  <data key="d0">topic</data>
+</node>
+<node id="motie j.1 pvdd ecologisch advies voor a-locaties">
+  <data key="d0">topic</data>
+</node>
+<node id="RIS319455">
+  <data key="d0">person</data>
+</node>
+<node id="L.1 CDA">
+  <data key="d0">person</data>
+</node>
+<node id="L.2 CDA">
+  <data key="d0">person</data>
+</node>
+<node id="M.1 HvDH">
+  <data key="d0">person</data>
+</node>
+<node id="N.A HvDH">
+  <data key="d0">person</data>
+</node>
+<node id="badhuisarchitectuur als drager voor nieuwe ontwikkeling">
+  <data key="d0">topic</data>
+</node>
+<node id="regel bereikbaarheid en verkeersvoorzieningen bij badhuisweg 4">
+  <data key="d0">topic</data>
+</node>
+<node id="pier pressure m n">
+  <data key="d0">topic</data>
+</node>
+<node id="herontwikkeling de pier">
+  <data key="d0">topic</data>
+</node>
+<node id="hrziening grondexploitatie trekvlietzone">
+  <data key="d0">topic</data>
+</node>
+<node id="CDA">
+  <data key="d0">person</data>
+</node>
+<node id="GL">
+  <data key="d0">person</data>
+</node>
+<node id="CU-SGP">
+  <data key="d0">person</data>
+</node>
+<node id="grondexploitatie trekvlietzone">
+  <data key="d0">topic</data>
+</node>
+<node id="nota grondbeleid 2024 en verder">
+  <data key="d0">topic</data>
+</node>
+<node id="schrappen strengere lokale regels als gunningscriterium">
+  <data key="d0">topic</data>
+</node>
+<node id="grondbeleid ook voor leefbaarheid en voorzieningen">
+  <data key="d0">topic</data>
+</node>
+<node id="demonstreren moet laagdrempelig zijn">
+  <data key="d0">topic</data>
+</node>
+<node id="start lobby om om tot vervolging over">
+  <data key="d0">topic</data>
+</node>
+<node id="kansen voor betaalbaar op zand in kaart brengen">
+  <data key="d0">topic</data>
+</node>
+<node id="werk algemeen belang uit">
+  <data key="d0">topic</data>
+</node>
+<node id="p blokkades a12">
+  <data key="d0">topic</data>
+</node>
+<node id="demonstraties niet criminaliseren">
+  <data key="d0">topic</data>
+</node>
+<node id="luister naar de rechter">
+  <data key="d0">topic</data>
+</node>
+<node id="P">
+  <data key="d0">person</data>
+</node>
+<node id="D66">
+  <data key="d0">person</data>
+</node>
+<node id="VVD">
+  <data key="d0">person</data>
+</node>
+<node id="demonstreren">
+  <data key="d0">topic</data>
+</node>
+<node id="overleg">
+  <data key="d0">topic</data>
+</node>
+<node id="lobby">
+  <data key="d0">topic</data>
+</node>
+<node id="taalles">
+  <data key="d0">topic</data>
+</node>
+<node id="taalpartner">
+  <data key="d0">topic</data>
+</node>
+<node id="informatie over taalachterstanden">
+  <data key="d0">topic</data>
+</node>
+<node id="taaltoets">
+  <data key="d0">topic</data>
+</node>
+<node id="effectieve taalinterventies">
+  <data key="d0">topic</data>
+</node>
+<edge source="Ralf Sluijs" target="aanpassen locatiebeleid voor maatwerk">
+  <data key="d1">2</data>
+</edge>
+<edge source="Ralf Sluijs" target="verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag (ris320934)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs" target="voorstel van het college inzake verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs" target="schrap verplichte rustperiodes evenementen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs" target="den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs" target="evenementenstad">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs" target="verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs" target="clustering van evenementen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs" target="producties en faciliteiten">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs Hart" target="evenementaanbod">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs Hart" target="innovatie">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ralf Sluijs Hart" target="alternatieve locaties">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="en en 14 middeldure huurwoningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="Rutger de Ridder">
+  <data key="d1">5</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="Joren Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="Hinke de Groot">
+  <data key="d1">2</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="uitbreidingsarchitectuur">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="badplaatsarchitectuur">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="badhuisarchitectuur">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="gebouwontwerp">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="stijl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="Dennis Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="herziening grondexploitatie trekvlietzone (ris320794)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="Lesley Arp">
+  <data key="d1">3</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="Nick Kaptheijns">
+  <data key="d1">3</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="hart voor den haag">
+  <data key="d1">2</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="sp">
+  <data key="d1">2</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="pvv">
+  <data key="d1">2</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="haagse vvd">
+  <data key="d1">2</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="nota grondbeleid 2024">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="duurzaamheidsmaatregelen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="co2-reductie">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="openbare selectieprocedures">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arjen Dubbelaar" target="toekomstbestendig bouwen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="en en 14 middeldure huurwoningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="Joren Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="Hinke de Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="uitbreidingsarchitectuur">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rutger de Ridder" target="beeldkwaliteitsplan">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="badhuisweg 4">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="badplaatsarchitectuur">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rutger de Ridder" target="gewijzigd voorstel van het college inzake concept planuitwerkingskader badhuisweg 4">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="herziening grondexploitatie trekvlietzone (ris320794)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Rutger de Ridder" target="Lesley Arp">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rutger de Ridder" target="Nick Kaptheijns">
+  <data key="d1">3</data>
+</edge>
+<edge source="Rutger de Ridder" target="hart voor den haag">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rutger de Ridder" target="sp">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rutger de Ridder" target="pvv">
+  <data key="d1">2</data>
+</edge>
+<edge source="Rutger de Ridder" target="haagse vvd">
+  <data key="d1">2</data>
+</edge>
+<edge source="Joren Noorlander" target="en en 14 middeldure huurwoningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Joren Noorlander" target="Hinke de Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="en en 14 middeldure huurwoningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="badhuisarchitectuur">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="gebouwontwerp">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="stijl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="Dennis Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="nota grondbeleid 2024">
+  <data key="d1">2</data>
+</edge>
+<edge source="Hinke de Groot" target="voorstel college">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="ris-nummer: ris319970">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="grondbeleid">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hinke de Groot" target="notitie omgevingsvisie">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.A VVD" target="badhuisarchitectuur">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.A VVD" target="neorenaissance">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.A VVD" target="neoclassicisme">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.A VVD" target="art nouveau">
+  <data key="d1">1</data>
+</edge>
+<edge source="badhuisarchitectuur" target="Dennis Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dennis Groenewold" target="gebouwontwerp">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dennis Groenewold" target="stijl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lesley Arp" target="herziening grondexploitatie trekvlietzone (ris320794)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lesley Arp" target="Nick Kaptheijns">
+  <data key="d1">3</data>
+</edge>
+<edge source="Lesley Arp" target="hart voor den haag">
+  <data key="d1">2</data>
+</edge>
+<edge source="Lesley Arp" target="sp">
+  <data key="d1">2</data>
+</edge>
+<edge source="Lesley Arp" target="pvv">
+  <data key="d1">2</data>
+</edge>
+<edge source="Lesley Arp" target="haagse vvd">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nick Kaptheijns" target="herziening grondexploitatie trekvlietzone (ris320794)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Nick Kaptheijns" target="hart voor den haag">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nick Kaptheijns" target="sp">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nick Kaptheijns" target="pvv">
+  <data key="d1">2</data>
+</edge>
+<edge source="Nick Kaptheijns" target="haagse vvd">
+  <data key="d1">2</data>
+</edge>
+<edge source="openbare selectieprocedures" target="het college">
+  <data key="d1">1</data>
+</edge>
+<edge source="toekomstbestendig bouwen" target="het college">
+  <data key="d1">1</data>
+</edge>
+<edge source="het college" target="co2-reductie tijdens gebruiks- en realisatiefase">
+  <data key="d1">1</data>
+</edge>
+<edge source="het college" target="natuurinclusief bouwen">
+  <data key="d1">1</data>
+</edge>
+<edge source="het college" target="klimaatadaptief bouwen">
+  <data key="d1">1</data>
+</edge>
+<edge source="het college" target="energiebesparing">
+  <data key="d1">1</data>
+</edge>
+<edge source="Biedsontwikkelingen" target="kwaliteit toevoegen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Biedsontwikkelingen" target="rechtvaardig en inclusief den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Biedsontwikkelingen" target="betaalbare, toegankelijke en toekomstbestendige woningvoorraad">
+  <data key="d1">1</data>
+</edge>
+<edge source="Biedsontwikkelingen" target="klimaatbestendig, klimaatneutraal en natuurinclusief den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Biedsontwikkelingen" target="economisch vitaal den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Biedsontwikkelingen" target="gezond en veilig den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Biedsontwikkelingen" target="duurzaam bereikbaar den haag">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Arp">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Assad">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Baboeram">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Van Basten Batenburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Bingöl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Bom">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ahraui" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Assad">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Baboeram">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Van Basten Batenburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Bingöl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Bom">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Arp" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Baboeram">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Van Basten Batenburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Bingöl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Bom">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Assad" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Van Basten Batenburg">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Bingöl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Bom">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baboeram" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Bingöl">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Bom">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Basten Batenburg" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Bom">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bingöl" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bom" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Van den Bos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bos" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Butt">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Bos" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Celik">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Butt" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="De Vuyst">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Celik" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Van Doorn">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Vuyst" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Dubbelaar">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Doorn" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Dumoulin">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dubbelaar" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Van Esch">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dumoulin" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Etalle">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van Esch" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Faïd">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Etalle" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Gerritsen">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Faïd" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Van den Goorbergh">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gerritsen" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Groenewold">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Van den Goorbergh" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="De Groot">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Groenewold" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Guernaoui">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Groot" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Hofstra">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Guernaoui" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Holman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Hofstra" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Kaptheijns">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Holman" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Klokkenburg-Reedeker">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kaptheijns" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Mahmood">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klokkenburg-Reedeker" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Martinez van Andel">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mahmood" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="Martini">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martinez van Andel" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martini" target="Meinesz">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martini" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martini" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martini" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martini" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martini" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Martini" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Meinesz" target="Mekers">
+  <data key="d1">1</data>
+</edge>
+<edge source="Meinesz" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Meinesz" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Meinesz" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Meinesz" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Meinesz" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mekers" target="De Mos">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mekers" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mekers" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mekers" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mekers" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Mos" target="Mostert">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Mos" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Mos" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="De Mos" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mostert" target="Noorlander">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mostert" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mostert" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Noorlander" target="Partiman">
+  <data key="d1">1</data>
+</edge>
+<edge source="Noorlander" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="Partiman" target="Peeck">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="aanpassing maximale hoogte reserve activafinanciering">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="datumbepaling initiatiefvoorstel (hart voor den haag)">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="actieve en gezonde jongeren, elke meter telt!">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="gestaakte stemmen raadsvergadering 19 december 2024">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="motie j.3 (hvdh) watertappunt in drukstbezochte speeltuinen">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="motie j.4 (d66) geef ruimte aan meiden om te spelen">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="voorstel van het college inzake voorontwerp herinrichting pletterijkade incl. 2 richtingsfietsoversteek">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="motie h.1 sp bewaar een plekje voor een haags icoon">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="motie h.2 sp maak de kade veilig">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="motie h.3 pvv gemotoriseerd verkeer linksaf de pletterijkade op">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="motie h.4 hvdh behoud een plekje voor een haags icoon">
+  <data key="d1">1</data>
+</edge>
+<edge source="A" target="J">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="aanpassing maximale hoogte reserve activafinanciering">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="datumbepaling initiatiefvoorstel (hart voor den haag)">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="actieve en gezonde jongeren, elke meter telt!">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="gestaakte stemmen raadsvergadering 19 december 2024">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="motie j.3 (hvdh) watertappunt in drukstbezochte speeltuinen">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="motie j.4 (d66) geef ruimte aan meiden om te spelen">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="voorstel van het college inzake voorontwerp herinrichting pletterijkade incl. 2 richtingsfietsoversteek">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="motie h.1 sp bewaar een plekje voor een haags icoon">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="motie h.2 sp maak de kade veilig">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="motie h.3 pvv gemotoriseerd verkeer linksaf de pletterijkade op">
+  <data key="d1">1</data>
+</edge>
+<edge source="J" target="motie h.4 hvdh behoud een plekje voor een haags icoon">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="verordening nadeelcompensatie den haag 2024">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="motie i.1 hvdh gelijke behandeling ondernemers zeeheldenkwartier">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="motie i.2 hvdh na-ijl periode zeeheldenkwartier in relatie tot nieuwe werkzaamheden">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="motie i.3 hvdh onderzoek voorzienbaarheid hinder kijkduin">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="k l ris321139 voorstel van het college inzake verordening tot wijziging van de algemene plaatselijke verordening voor de gemeente den haag (ris320934)">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="ingetrokken amendement j.a hvdh aanpassen locatiebeleid voor maatwerk">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="ingetrokken amendement j.b hvdh schrap verplichte rustperiodes evenementen">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="ingetrokken amendement j.c hvdh stimuleer clustering van evenementen">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="motie j.1 pvdd ecologisch advies voor a-locaties">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="nota grondbeleid 2024 en verder">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="schrappen strengere lokale regels als gunningscriterium">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="grondbeleid ook voor leefbaarheid en voorzieningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="demonstreren moet laagdrempelig zijn">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="start lobby om om tot vervolging over">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="kansen voor betaalbaar op zand in kaart brengen">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="werk algemeen belang uit">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="p blokkades a12">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="demonstraties niet criminaliseren">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="luister naar de rechter">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="CDA">
+  <data key="d1">2</data>
+</edge>
+<edge source="HvDH" target="GL">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="CU-SGP">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="demonstreren">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="overleg">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="lobby">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="taalles">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="taalpartner">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="informatie over taalachterstanden">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="taaltoets">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="effectieve taalinterventies">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="P">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="D66">
+  <data key="d1">1</data>
+</edge>
+<edge source="HvDH" target="VVD">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="badhuisarchitectuur als drager voor nieuwe ontwikkeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="regel bereikbaarheid en verkeersvoorzieningen bij badhuisweg 4">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="pier pressure m n">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="herontwikkeling de pier">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="hrziening grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="L.1 CDA">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="L.2 CDA">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="M.1 HvDH">
+  <data key="d1">1</data>
+</edge>
+<edge source="RIS319455" target="N.A HvDH">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="badhuisarchitectuur als drager voor nieuwe ontwikkeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="regel bereikbaarheid en verkeersvoorzieningen bij badhuisweg 4">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="pier pressure m n">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="herontwikkeling de pier">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="hrziening grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="L.2 CDA">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="M.1 HvDH">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.1 CDA" target="N.A HvDH">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.2 CDA" target="badhuisarchitectuur als drager voor nieuwe ontwikkeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.2 CDA" target="regel bereikbaarheid en verkeersvoorzieningen bij badhuisweg 4">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.2 CDA" target="pier pressure m n">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.2 CDA" target="herontwikkeling de pier">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.2 CDA" target="hrziening grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.2 CDA" target="M.1 HvDH">
+  <data key="d1">1</data>
+</edge>
+<edge source="L.2 CDA" target="N.A HvDH">
+  <data key="d1">1</data>
+</edge>
+<edge source="M.1 HvDH" target="badhuisarchitectuur als drager voor nieuwe ontwikkeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="M.1 HvDH" target="regel bereikbaarheid en verkeersvoorzieningen bij badhuisweg 4">
+  <data key="d1">1</data>
+</edge>
+<edge source="M.1 HvDH" target="pier pressure m n">
+  <data key="d1">1</data>
+</edge>
+<edge source="M.1 HvDH" target="herontwikkeling de pier">
+  <data key="d1">1</data>
+</edge>
+<edge source="M.1 HvDH" target="hrziening grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="M.1 HvDH" target="N.A HvDH">
+  <data key="d1">1</data>
+</edge>
+<edge source="N.A HvDH" target="badhuisarchitectuur als drager voor nieuwe ontwikkeling">
+  <data key="d1">1</data>
+</edge>
+<edge source="N.A HvDH" target="regel bereikbaarheid en verkeersvoorzieningen bij badhuisweg 4">
+  <data key="d1">1</data>
+</edge>
+<edge source="N.A HvDH" target="pier pressure m n">
+  <data key="d1">1</data>
+</edge>
+<edge source="N.A HvDH" target="herontwikkeling de pier">
+  <data key="d1">1</data>
+</edge>
+<edge source="N.A HvDH" target="hrziening grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="nota grondbeleid 2024 en verder">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="schrappen strengere lokale regels als gunningscriterium">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="grondbeleid ook voor leefbaarheid en voorzieningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="demonstreren moet laagdrempelig zijn">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="start lobby om om tot vervolging over">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="kansen voor betaalbaar op zand in kaart brengen">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="werk algemeen belang uit">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="p blokkades a12">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="demonstraties niet criminaliseren">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="luister naar de rechter">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="GL">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="CU-SGP">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="demonstreren">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="overleg">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="lobby">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="taalles">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="taalpartner">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="informatie over taalachterstanden">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="taaltoets">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="effectieve taalinterventies">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="P">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="D66">
+  <data key="d1">1</data>
+</edge>
+<edge source="CDA" target="VVD">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="nota grondbeleid 2024 en verder">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="schrappen strengere lokale regels als gunningscriterium">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="grondbeleid ook voor leefbaarheid en voorzieningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="demonstreren moet laagdrempelig zijn">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="start lobby om om tot vervolging over">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="kansen voor betaalbaar op zand in kaart brengen">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="werk algemeen belang uit">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="p blokkades a12">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="demonstraties niet criminaliseren">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="luister naar de rechter">
+  <data key="d1">1</data>
+</edge>
+<edge source="GL" target="CU-SGP">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="grondexploitatie trekvlietzone">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="nota grondbeleid 2024 en verder">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="schrappen strengere lokale regels als gunningscriterium">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="grondbeleid ook voor leefbaarheid en voorzieningen">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="demonstreren moet laagdrempelig zijn">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="start lobby om om tot vervolging over">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="kansen voor betaalbaar op zand in kaart brengen">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="werk algemeen belang uit">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="p blokkades a12">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="demonstraties niet criminaliseren">
+  <data key="d1">1</data>
+</edge>
+<edge source="CU-SGP" target="luister naar de rechter">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="demonstreren">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="overleg">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="lobby">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="taalles">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="taalpartner">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="informatie over taalachterstanden">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="taaltoets">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="effectieve taalinterventies">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="D66">
+  <data key="d1">1</data>
+</edge>
+<edge source="P" target="VVD">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="demonstreren">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="overleg">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="lobby">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="taalles">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="taalpartner">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="informatie over taalachterstanden">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="taaltoets">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="effectieve taalinterventies">
+  <data key="d1">1</data>
+</edge>
+<edge source="D66" target="VVD">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="demonstreren">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="overleg">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="lobby">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="taalles">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="taalpartner">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="informatie over taalachterstanden">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="taaltoets">
+  <data key="d1">1</data>
+</edge>
+<edge source="VVD" target="effectieve taalinterventies">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
